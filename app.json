@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Google-Gemini",
+    "slug": "google-gemini",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "com.rajasingh.googlegemini"
+    },
+    "android": {
+      "package": "com.rajasingh.googlegemini"
+    }
+  }
+}
