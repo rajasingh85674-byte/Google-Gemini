@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Google-Gemini",
+    "slug": "google-gemini",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.rajasingh85674.googlegemini"
+    }
+  }
+}
